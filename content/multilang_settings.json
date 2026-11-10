@@ -1,0 +1,81 @@
+{
+    "intl_phone": "(+84) 396 24 1612",
+    "intl_phone_tel": "+84396241612",
+    "whatsapp_url": "https://wa.me/84396241612",
+    "telegram_url": "https://t.me/chunorapet",
+    "engine": "free",
+    "claude_model": "claude-sonnet-5-5",
+    "openai_model": "gpt-4o-mini",
+    "countries": {
+        "VN": {
+            "enabled": true,
+            "greeting": "",
+            "channel": "auto"
+        },
+        "US": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to the United States.",
+            "channel": "auto"
+        },
+        "CA": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to Canada.",
+            "channel": "auto"
+        },
+        "EU": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to Europe.",
+            "channel": "auto"
+        },
+        "AU": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to Australia.",
+            "channel": "auto"
+        },
+        "SG": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to Singapore.",
+            "channel": "auto"
+        },
+        "PH": {
+            "enabled": true,
+            "greeting": "Welcome! We safely ship your dog or cat to the Philippines.",
+            "channel": "auto"
+        },
+        "JP": {
+            "enabled": true,
+            "greeting": "ようこそ！大切な犬・猫を日本へ安全にお届けします。",
+            "channel": "auto"
+        },
+        "KR": {
+            "enabled": true,
+            "greeting": "환영합니다! 반려견·반려묘를 한국으로 안전하게 운송합니다.",
+            "channel": "auto"
+        },
+        "TW": {
+            "enabled": true,
+            "greeting": "歡迎！我們安全運送您的毛孩前往台灣。",
+            "channel": "auto"
+        },
+        "CN": {
+            "enabled": true,
+            "greeting": "欢迎！我们安全运送您的宠物前往中国。",
+            "channel": "auto"
+        },
+        "TH": {
+            "enabled": true,
+            "greeting": "ยินดีต้อนรับ! เราขนส่งสุนัขและแมวของคุณไปประเทศไทยอย่างปลอดภัย",
+            "channel": "auto"
+        },
+        "LA": {
+            "enabled": true,
+            "greeting": "ຍິນດີຕ້ອນຮັບ! ພວກເຮົາຂົນສົ່ງໝາ ແລະ ແມວຂອງທ່ານໄປລາວຢ່າງປອດໄພ",
+            "channel": "auto"
+        },
+        "BR": {
+            "enabled": true,
+            "greeting": "Bem-vindo! Transportamos seu cão ou gato com segurança para o Brasil.",
+            "channel": "auto"
+        }
+    }
+}

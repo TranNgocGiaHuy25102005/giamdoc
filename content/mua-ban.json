@@ -1,0 +1,20 @@
+{
+  "cho": [
+    {"name": "Poodle nâu đỏ",   "breed": "POODLE",         "coat": "Lông xoăn", "color": "Sắc nâu ấm",     "image": "images/cho/poodle-nau-do.jpg"},
+    {"name": "Phốc sóc trắng",  "breed": "PHỐC SÓC",       "coat": "Lông xù",   "color": "Sắc trắng kem",  "image": "images/cho/phoc-soc-trang.jpg"},
+    {"name": "Corgi vàng trắng","breed": "CORGI",          "coat": "Lông ngắn", "color": "Hai màu",        "image": "images/cho/corgi-vang-trang.jpg"},
+    {"name": "Golden lông vàng","breed": "GOLDEN RETRIEVER","coat": "Lông dài",  "color": "Sắc vàng mật",   "image": "images/cho/golden-long-vang.jpg"},
+    {"name": "Shiba vàng đỏ",   "breed": "SHIBA INU",      "coat": "Lông dày",  "color": "Sắc vàng đỏ",    "image": "images/cho/shiba-vang-do.jpg"},
+    {"name": "Chihuahua nâu kem","breed": "CHIHUAHUA",     "coat": "Lông ngắn", "color": "Sắc nâu kem",    "image": "images/cho/chihuahua-nau-kem.jpg"},
+    {"name": "Poodle kem",      "breed": "POODLE",         "coat": "Lông xoăn", "color": "Sắc kem nhạt",   "image": "images/cho/poodle-kem.jpg"},
+    {"name": "Corgi tam thể",   "breed": "CORGI",          "coat": "Lông ngắn", "color": "Ba màu",         "image": "images/cho/corgi-tam-the.jpg"}
+  ],
+  "meo": [
+    {"name": "Mèo tai cụp mướp",     "breed": "MÈO TAI CỤP",   "coat": "Lông ngắn", "color": "Mướp trắng", "image": "images/meo-tai-cup-vang.jpg"},
+    {"name": "Mèo tai cụp xám bạc",  "breed": "MÈO TAI CỤP",   "coat": "Lông ngắn", "color": "Xám bạc",    "image": "images/meo-xam-bac.jpg"},
+    {"name": "Mèo tai cụp xám trắng","breed": "MÈO TAI CỤP",   "coat": "Lông ngắn", "color": "Xám trắng",  "image": "images/meo-xam-trang.jpg"},
+    {"name": "Mèo kem",              "breed": "MÈO LÔNG NGẮN", "coat": "Lông ngắn", "color": "Sắc kem",    "image": "images/meo-kem.jpg"},
+    {"name": "Mèo vàng kem",         "breed": "MÈO LÔNG NGẮN", "coat": "Lông ngắn", "color": "Vàng kem",   "image": "images/meo-be-tay.jpg"},
+    {"name": "Mèo mướp trắng",       "breed": "MÈO LÔNG NGẮN", "coat": "Lông ngắn", "color": "Mướp trắng", "image": "images/meo-cao-mieu.jpg"}
+  ]
+}

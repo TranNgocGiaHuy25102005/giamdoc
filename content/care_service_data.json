@@ -1,0 +1,158 @@
+{
+    "spa": {
+        "badge": "SPA & GROOMING",
+        "title": "Spa, tắm sấy & cắt tỉa tạo kiểu",
+        "desc": "Mỗi bé được chăm chút bởi groomer có kinh nghiệm trong không gian sạch sẽ, yên tĩnh. Chúng tôi dùng sản phẩm dịu nhẹ phù hợp từng loại lông và da.",
+        "image": "",
+        "steps": [
+            {
+                "image": "images/uploads/18b2f7e5246a87ee91b7c2aa7da3b5ce.png",
+                "title": "Tắm dưỡng",
+                "desc": "Sữa tắm dịu nhẹ theo loại lông, massage thư giãn và xả sạch kỹ."
+            },
+            {
+                "image": "images/uploads/16bdd4f9072a353de7b972b6b5c85f23.png",
+                "title": "Sấy tơi",
+                "desc": "Sấy khô từng lớp lông, chải tơi mượt, tránh nóng và bết rối."
+            },
+            {
+                "image": "",
+                "title": "Vệ sinh móng & tai",
+                "desc": "Cắt dũa móng, làm sạch tai, vệ sinh vùng mắt và tuyến hôi."
+            },
+            {
+                "image": "",
+                "title": "Cắt tỉa tạo kiểu",
+                "desc": "Tỉa gọn theo giống và mong muốn của chủ, giữ bé thoải mái suốt buổi."
+            }
+        ],
+        "cta": "Đặt lịch Spa"
+    },
+    "hotel": {
+        "badge": "KHÁCH SẠN VIP",
+        "title": "Khách sạn lưu trú VIP cho thú cưng",
+        "desc": "Khi bạn đi công tác hoặc du lịch, các bé có một căn phòng riêng an toàn, yên tĩnh và được chăm sóc như ở nhà.",
+        "image": "",
+        "features": [
+            {
+                "image": "images/uploads/d934c360e07c7ad236259701ab477652.png",
+                "title": "Phòng cách âm",
+                "desc": "Từng phòng riêng, cách âm tốt, giúp bé ngủ ngon và ít căng thẳng."
+            },
+            {
+                "image": "images/uploads/d32e10aafe202d25c599918ea7897b2f.jpg",
+                "title": "Điều hòa lọc khí 24/7",
+                "desc": "Không khí sạch, nhiệt độ ổn định suốt ngày đêm."
+            },
+            {
+                "image": "",
+                "title": "Camera riêng từng phòng",
+                "desc": "Chủ nuôi theo dõi bé trực tiếp bất cứ lúc nào qua điện thoại."
+            },
+            {
+                "image": "",
+                "title": "Ăn uống theo yêu cầu",
+                "desc": "Giữ đúng khẩu phần, loại thức ăn và giờ ăn quen thuộc của bé."
+            }
+        ],
+        "cta": "Đặt phòng VIP"
+    },
+    "pricing": {
+        "title": "Bảng giá dịch vụ minh bạch",
+        "desc": "Giá theo hạng cân, đã gồm sản phẩm chăm sóc. Giá có thể thay đổi nhẹ tùy tình trạng lông và da của bé.",
+        "spa_tab": "Bảng giá Spa & Grooming",
+        "hotel_tab": "Bảng giá Khách sạn VIP",
+        "note": "* Giá tham khảo, chưa gồm phụ thu (lông rối nặng, bé khó tính…). Liên hệ để được báo giá chính xác.",
+        "spa": [
+            {
+                "name": "Tắm sấy cơ bản",
+                "weight": "Dưới 5 kg",
+                "price": "150.000đ"
+            },
+            {
+                "name": "Tắm sấy cơ bản",
+                "weight": "5 – 10 kg",
+                "price": "220.000đ"
+            },
+            {
+                "name": "Tắm sấy cơ bản",
+                "weight": "Trên 10 kg",
+                "price": "300.000đ"
+            },
+            {
+                "name": "Spa & cắt tỉa tạo kiểu",
+                "weight": "Dưới 5 kg",
+                "price": "300.000đ"
+            },
+            {
+                "name": "Spa & cắt tỉa tạo kiểu",
+                "weight": "5 – 10 kg",
+                "price": "420.000đ"
+            },
+            {
+                "name": "Spa & cắt tỉa tạo kiểu",
+                "weight": "Trên 10 kg",
+                "price": "550.000đ"
+            }
+        ],
+        "hotel": [
+            {
+                "name": "Phòng VIP tiêu chuẩn / đêm",
+                "weight": "Dưới 5 kg",
+                "price": "180.000đ"
+            },
+            {
+                "name": "Phòng VIP tiêu chuẩn / đêm",
+                "weight": "5 – 10 kg",
+                "price": "250.000đ"
+            },
+            {
+                "name": "Phòng VIP tiêu chuẩn / đêm",
+                "weight": "Trên 10 kg",
+                "price": "350.000đ"
+            },
+            {
+                "name": "Phòng VIP camera riêng / đêm",
+                "weight": "Mọi hạng cân",
+                "price": "Liên hệ"
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Không gian store",
+        "images": [
+            {
+                "src": "images/uploads/5cf95697d6ee6646223aebb84358d7f0.jpg",
+                "alt": ""
+            },
+            {
+                "src": "images/uploads/7d5643513d9a534074e890dd2c64249a.jpg",
+                "alt": ""
+            },
+            {
+                "src": "images/uploads/80b4369c38aafd145c0f2c93e960dcc0.gif",
+                "alt": ""
+            },
+            {
+                "src": "images/uploads/e7c7fbd5101abb80c7aeae24e4f6b7c4.gif",
+                "alt": ""
+            },
+            {
+                "src": "images/uploads/9c7c8c30f2d9cdff39cd2daf8ca3e80d.gif",
+                "alt": ""
+            }
+        ]
+    },
+    "booking": {
+        "title": "Đặt lịch hẹn trực tuyến",
+        "desc": "Để lại thông tin, CHUNORA PET sẽ gọi xác nhận lịch cho bạn sớm nhất.",
+        "hotline": "",
+        "submit": "Gửi yêu cầu đặt lịch",
+        "services": [
+            "Spa & Grooming",
+            "Tắm sấy",
+            "Cắt tỉa tạo kiểu",
+            "Khách sạn lưu trú VIP"
+        ]
+    }
+}

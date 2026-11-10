@@ -1,0 +1,72 @@
+{
+    "story": {
+        "eyebrow": "Câu chuyện thương hiệu",
+        "title": "Chăm sóc trọn vẹn cho người bạn *bốn chân*",
+        "positioning": "Chunora PET – Chuỗi dịch vụ mua bán, chăm sóc và vận chuyển chó mèo đa quốc gia.",
+        "intro": "Từ một cửa hàng nhỏ ở Quận 11, chúng tôi lớn lên cùng niềm tin rằng mỗi bé thú cưng đều xứng đáng được yêu thương, chăm sóc đúng cách và đi đến bất cứ nơi đâu cùng gia đình.",
+        "video": "https://youtu.be/LvreRLglIBg",
+        "thumbnail": "images/uploads/dff45806a88990fed5e9fd74ae3d7ecd.jpg",
+        "cta": "Xem video giới thiệu"
+    },
+    "why": {
+        "eyebrow": "Vì sao chọn Chunora PET",
+        "title": "Tận tâm với từng bé, *rõ ràng với từng chủ nuôi*",
+        "desc": "Chúng tôi tin một dịch vụ thú cưng tốt bắt đầu từ sự minh bạch và trách nhiệm trong từng chi tiết nhỏ.",
+        "image": "images/uploads/430cf24dba67f6b5696daf8e14734363.png",
+        "cards": [
+            {
+                "title": "Minh bạch thông tin",
+                "desc": "Nguồn gốc, sức khỏe và hồ sơ của bé được trao đổi rõ ràng trước khi bạn quyết định."
+            },
+            {
+                "title": "Thủ tục quốc tế",
+                "desc": "Hướng dẫn chi tiết giấy tờ, tiêm phòng và kiểm dịch theo quy định của nước đến."
+            },
+            {
+                "title": "Không gian chăm sóc riêng",
+                "desc": "Store tại Quận 11 được bố trí sạch sẽ, yên tĩnh để các bé thoải mái."
+            },
+            {
+                "title": "Đồng hành sau dịch vụ",
+                "desc": "Luôn sẵn sàng giải đáp qua hotline và Zalo khi bạn cần."
+            }
+        ],
+        "cta": "Tìm hiểu thêm",
+        "cta_link": "#doi-ngu"
+    },
+    "team": {
+        "eyebrow": "Đội ngũ Chunora PET",
+        "title": "Những người đứng sau *hành trình an toàn* của bé",
+        "desc": "Đội ngũ chuyên gia giàu kinh nghiệm, tận tâm và yêu thương động vật.",
+        "members": [],
+        "cta": "Gặp gỡ đội ngũ",
+        "cta_link": "#lien-he-cta"
+    },
+    "stats": {
+        "items": [
+            {
+                "value": "2.500+",
+                "label": "Bé cưng đã được phục vụ"
+            },
+            {
+                "value": "45+",
+                "label": "Đối tác & quốc gia vận chuyển"
+            },
+            {
+                "value": "5+",
+                "label": "Năm kinh nghiệm"
+            },
+            {
+                "value": "100%",
+                "label": "Khách hàng hài lòng"
+            }
+        ]
+    },
+    "cta": {
+        "title": "Sẵn sàng đồng hành cùng thú cưng của bạn",
+        "desc": "Liên hệ để được tư vấn mua bán, chăm sóc hoặc vận chuyển phù hợp nhất cho bé.",
+        "button": "Liên hệ ngay",
+        "button_link": "",
+        "hotline": "0123456789"
+    }
+}

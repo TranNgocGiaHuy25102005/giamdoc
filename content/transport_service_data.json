@@ -1,0 +1,93 @@
+{
+    "hero": {
+        "badge": "Vận chuyển thú cưng",
+        "title": "Vận chuyển đa quốc gia",
+        "desc": "Đưa thú cưng đi trong nước và quốc tế an toàn, với lồng đạt chuẩn và quy trình theo dõi suốt hành trình.",
+        "image": "images/uploads/27d6ded82a2f0efdd8d295754e7a562f.jpg",
+        "cta_primary": "Nhận báo giá vận chuyển",
+        "cta_secondary": "Tư vấn Zalo / Hotline"
+    },
+    "pillars": [
+        {
+            "title": "Giấy tờ, kiểm dịch xuất nhập cảnh",
+            "desc": "Hỗ trợ trọn gói hồ sơ thú y và sổ tiêm phòng.\nGắn chip ISO và xét nghiệm kháng thể dại (Rabies Titer Test).\nGiấy phép xuất nhập cảnh và thông quan tại sân bay."
+        },
+        {
+            "title": "Tư vấn tuyến bay và lồng vận chuyển",
+            "desc": "Chọn hãng bay thân thiện, tối ưu chặng bay ngắn nhất (In-cabin, hành lý ký gửi hoặc Cargo).\nChuẩn bị lồng đạt chuẩn IATA, thoáng khí 4 chiều, đúng kích thước."
+        },
+        {
+            "title": "Cập nhật tình trạng bé trong hành trình",
+            "desc": "Gửi hình ảnh, video thực tế của bé tại mọi điểm chạm: trước giờ bay, check-in, quá cảnh và khi hạ cánh.\nTheo dõi chuyến bay 24/7."
+        }
+    ],
+    "journey": {
+        "title": "Hành trình của bé",
+        "desc": "Từ lúc bạn liên hệ đến khi bé về tận tay, mọi chặng đều được theo sát.",
+        "steps": [
+            {
+                "title": "Tư vấn & Báo giá",
+                "desc": "Trao đổi điểm đến, thời gian bay và tình trạng của bé để báo giá rõ ràng."
+            },
+            {
+                "title": "Chuẩn bị hồ sơ & Kiểm dịch",
+                "desc": "Hoàn tất tiêm phòng, chip, xét nghiệm và giấy phép theo quy định nước đến."
+            },
+            {
+                "title": "Vận chuyển an toàn với lồng chuẩn IATA",
+                "desc": "Bé được đóng lồng đạt chuẩn, check-in và theo dõi suốt chuyến bay."
+            },
+            {
+                "title": "Đón bé & Bàn giao tận tay",
+                "desc": "Làm thủ tục thông quan, đón bé và bàn giao cho chủ nuôi tại điểm hẹn."
+            }
+        ]
+    },
+    "routes": {
+        "title": "Phạm vi tuyến bay",
+        "desc": "CHUNORA PET đồng hành cùng bé trên nhiều tuyến phổ biến.",
+        "intl_title": "Tuyến Quốc tế",
+        "intl_desc": "Hồ sơ và kiểm dịch được hướng dẫn riêng theo quy định của từng nước.",
+        "intl": [
+            "Mỹ",
+            "Canada",
+            "Châu Âu",
+            "Úc",
+            "Nhật Bản",
+            "Hàn Quốc",
+            "Singapore",
+            "Thái Lan"
+        ],
+        "domestic_title": "Tuyến Nội địa",
+        "domestic_desc": "Vận chuyển giữa các thành phố lớn, có thể gửi theo chuyến bay trong ngày.",
+        "domestic": [
+            "TP. Hồ Chí Minh",
+            "Hà Nội",
+            "Đà Nẵng",
+            "Nha Trang",
+            "Phú Quốc",
+            "Cần Thơ"
+        ]
+    },
+    "gallery": {
+        "title": "Hình ảnh thực tế tại sân bay",
+        "desc": "Các kiện lồng đạt chuẩn do CHUNORA PET chuẩn bị.",
+        "images": [
+            {
+                "src": "images/uploads/31d316609d3144058f0c8ebcca691d2b.jpg",
+                "alt": ""
+            },
+            {
+                "src": "images/uploads/be818756ab0f9cae20457abd21ef66cf.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    "quote": {
+        "title": "Nhận báo giá vận chuyển",
+        "desc": "Để lại thông tin, CHUNORA PET sẽ liên hệ báo giá chi tiết cho bạn sớm nhất.",
+        "hotline": "",
+        "zalo": "",
+        "submit": "Gửi Yêu Cầu Báo Giá"
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "seo": {
+    "title": "CHUNORA PET – Mua bán, chăm sóc, vận chuyển chó mèo đa quốc gia",
+    "description": "CHUNORA PET – chuỗi dịch vụ mua bán chó mèo, chăm sóc tại store và vận chuyển thú cưng đa quốc gia. Trụ sở 110/19 Ông Ích Khiêm, Q.11, TP.HCM. Hotline 0569 551 512."
+  },
+  "contact": {
+    "hotline": "0569 551 512",
+    "address": "110/19 Ông Ích Khiêm, Phường Hoà Bình, Quận 11, TP. Hồ Chí Minh",
+    "address_short": "110/19 Ông Ích Khiêm, Q.11",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=110%2F19+%C3%94ng+%C3%8Dch+Khi%C3%AAm%2C+Qu%E1%BA%ADn+11%2C+TP.HCM",
+    "domain": "chunorapet.com"
+  },
+  "social": {
+    "youtube": "",
+    "tiktok": "",
+    "facebook": "",
+    "x": "",
+    "telegram": "",
+    "zalo": "https://zalo.me/0569551512"
+  },
+  "hero": {
+    "badge": "Chuỗi dịch vụ thú cưng đa quốc gia",
+    "title_line1": "Chăm sóc trọn vẹn",
+    "title_line2": "cho người bạn",
+    "highlight": "bốn chân",
+    "description": "Từ chọn bé chó mèo phù hợp, chăm sóc tận tâm tại store đến vận chuyển an toàn qua biên giới – CHUNORA PET lo trọn từng bước để bạn yên tâm.",
+    "image_main": "images/hero-xe-day-long.jpg",
+    "image_small": "images/hero-long-van-chuyen.jpg"
+  },
+  "services": {
+    "mua_ban": {
+      "title": "Mua bán chó mèo",
+      "description": "Tư vấn chọn giống phù hợp với không gian sống và lối sống của bạn. Mỗi bé được giới thiệu rõ nguồn gốc, sức khỏe và lịch tiêm phòng.",
+      "bullets": [
+        "Chó cảnh, mèo cảnh nhiều giống",
+        "Tư vấn chọn bé theo nhu cầu",
+        "Hỗ trợ sau khi đón bé về nhà"
+      ],
+      "image": "images/meo-xam-bac.jpg"
+    },
+    "van_chuyen": {
+      "title": "Vận chuyển đa quốc gia",
+      "description": "Đưa thú cưng đi trong nước và quốc tế an toàn, với lồng đạt chuẩn và quy trình theo dõi suốt hành trình.",
+      "bullets": [
+        "Giấy tờ, kiểm dịch xuất nhập cảnh",
+        "Tư vấn tuyến bay và lồng vận chuyển",
+        "Cập nhật tình trạng bé trong hành trình"
+      ],
+      "image": "images/van-chuyen-san-bay.jpg"
+    },
+    "cham_soc": {
+      "title": "Chăm sóc tại store",
+      "description": "Không gian sạch sẽ, nhẹ nhàng để các bé được vệ sinh, làm đẹp và chăm sóc bởi đội ngũ yêu thú cưng.",
+      "bullets": [
+        "Tắm, sấy, vệ sinh tai và móng",
+        "Cắt tỉa, tạo kiểu lông",
+        "Chăm sóc theo yêu cầu riêng"
+      ],
+      "image": "images/meo-cao-mieu.jpg"
+    }
+  },
+  "team_image": "images/meo-be-tay.jpg",
+  "gallery": [
+    {
+      "image": "images/meo-tai-cup-vang.jpg",
+      "alt": "Mèo con tai cụp lông mướp đang kêu"
+    },
+    {
+      "image": "images/meo-xam-trang.jpg",
+      "alt": "Mèo con tai cụp lông xám trắng"
+    },
+    {
+      "image": "images/meo-kem.jpg",
+      "alt": "Mèo con lông kem nhìn lên"
+    }
+  ]
+}
